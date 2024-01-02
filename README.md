@@ -9,6 +9,13 @@
 Life is Impermanence. There's not enough time to be completely obsessed with something.<br />
 In other words, it means we have time to do anything.
 
+## Now Listening 🎶
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&redirect=true)
+
+</div>
+
 ## キャリア (경력, Career)
 *<sup>法的に認められるキャリアには別表（アスタリスク, \*）が付きます。<br />법적으로 인정되는 경력은 별표(\*)가 붙습니다.<br />Legally recognized carriers are marked with an asterisk (\*).</sup>*
 
