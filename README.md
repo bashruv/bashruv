@@ -1,3 +1,6 @@
+## Now Listening 🎶
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&redirect=true)
+
 # [諸行無常](https://ja.wikipedia.org/wiki/%E8%AB%B8%E8%A1%8C%E7%84%A1%E5%B8%B8) ([제행무상](https://ko.dict.naver.com/ko/entry/koko/be22553151fd46149c084daddfbd0bc3), [Impermanence](https://en.wikipedia.org/wiki/Impermanence))
 
 人生は諸行無常です。何かに完全に執着するほどの時間はありません。<br />
@@ -8,9 +11,6 @@
 
 Life is Impermanence. There's not enough time to be completely obsessed with something.<br />
 In other words, it means we have time to do anything.
-
-## Now Listening 🎶
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&redirect=true)
 
 ## キャリア (경력, Career)
 *<sup>法的に認められるキャリアには別表（アスタリスク, \*）が付きます。<br />법적으로 인정되는 경력은 별표(\*)가 붙습니다.<br />Legally recognized carriers are marked with an asterisk (\*).</sup>*
