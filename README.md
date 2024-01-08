@@ -1,5 +1,5 @@
 ## Now Listening 🎶
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aivlrvufdb6basbsiwwlrsx6yq&redirect=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001694.1d15d73dd0ee42dd8c94499d0186d8cf.0152)](https://github.com/rayriffy/apple-music-github-profile)
 
 # [諸行無常](https://ja.wikipedia.org/wiki/%E8%AB%B8%E8%A1%8C%E7%84%A1%E5%B8%B8) ([제행무상](https://ko.dict.naver.com/ko/entry/koko/be22553151fd46149c084daddfbd0bc3), [Impermanence](https://en.wikipedia.org/wiki/Impermanence))
 
